@@ -28,7 +28,7 @@ def welcome():
     /api/v1.0/precipitation
     /api/v1.0/stations
     /api/v1.0/tobs
-    /api/v1.0/temp/start/end
+    /c
     ''')
 @app.route("/api/v1.0/precipitation")
 def precipitation():
